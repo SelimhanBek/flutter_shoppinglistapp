@@ -4,7 +4,7 @@
 You can create, edit your shopping list. It's a shopping list app.;
 
 
-<img src='./screenshots/img1.png' width='250'><img src='./screenshots/img2.png' width='250'><img src='./screenshots/img3.png' width='250'><img src='./screenshots/img4.png' width='250'>     
+<img src='./screenshots/img1.png' width='250'> <img src='./screenshots/img2.png' width='250'> <img src='./screenshots/img3.png' width='250'> <img src='./screenshots/img4.png' width='250'>     
 
 ## Getting Started
 
