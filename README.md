@@ -21,7 +21,7 @@ For emulator debug;
 Then select Emulator.
 
 
-## Debug on real device
+## Test on real device
 For real device test. Connect with your phone. If android don't forget open developer mode.
 
      flutter run --release
