@@ -1,16 +1,33 @@
-# shoppinglistapp
+# Flutter Shop List 
+**Flutter Riverpod (State Management)
 
-A new Flutter project.
+You can create, edit your shopping list. It's a shopping list app.;
+
+
+<img src='./screenshots/img1.png' width='250'>             <img src='./screenshots/img2.png' width='250'>         <img src='./screenshots/img3.png' width='250'>  <img src='./screenshots/img4.png' width='250'>   
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Firstly load packages;
 
-A few resources to get you started if this is your first Flutter project:
+     flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Debug on emulators
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For emulator debug;
+
+     flutter run
+
+Then select Emulator.
+
+
+## Debug on real device
+For real device test. Connect with your phone. If android don't forget open developer mode.
+
+     flutter run --release
+
+
+## Debug on Web
+Close flutter sdk WEB securities. Then run this code;
+
+     flutter run -d chrome --web-renderer html --web-port 8080
